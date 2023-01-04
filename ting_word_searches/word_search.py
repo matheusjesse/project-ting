@@ -17,7 +17,7 @@ def exists_word(word, instance):
 
     if not len(occurrency):
         return []
-    
+
     return return_data
 
 
